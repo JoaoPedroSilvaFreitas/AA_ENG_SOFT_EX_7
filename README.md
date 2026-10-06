@@ -1,1 +1,1 @@
-![diagramaClasses.png](diagramaClasses.png)
+![diagramaClasses](diagramaClasses.jpg)
